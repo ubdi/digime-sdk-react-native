@@ -1,8 +1,8 @@
 {
   "name": "react-native-digime",
-  "title": "React Native Digime",
+  "title": "React Native digi.me",
   "version": "1.0.0",
-  "description": "TODO",
+  "description": "React Native wrapper for the digi.me SDK",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,8 +16,8 @@
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Harun Smrkovic - UBDI",
+    "email": "harun@ubdi.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
